@@ -7,6 +7,7 @@ export const Container = styled.div`
     padding-top: 60px;
     justify-content: center;
     width: 80vw;
+    // min-height: 100%;
     height: 80%;
     padding: 0;
     box-shadow: 4px 4px 4px rgba(0,0,0,0.25);

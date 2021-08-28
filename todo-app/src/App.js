@@ -13,8 +13,7 @@ function App() {
   } 
   return (
     <>
-      {/* {(!session) ? <Login setSession={setSession}/> : <ToDo/>} */}
-      <ToDo/>
+      {(!session) ? <Login setSession={setSession}/> : <ToDo/>}
     </>
   );
 }
